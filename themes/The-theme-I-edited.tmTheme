@@ -66,8 +66,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#00de12</string>
-                <key>fontStyle</key>
-                <string>italic</string>
             </dict>
         </dict>
 
@@ -79,8 +77,6 @@
             <string>string</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#f2dd98</string>
             </dict>
@@ -185,8 +181,6 @@
             <string>entity.name.class</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#E5C07B</string>
             </dict>
@@ -199,8 +193,6 @@
             <string>entity.other.inherited-class</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#E5C07B</string>
             </dict>
@@ -227,8 +219,6 @@
             <string>variable.parameter</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#ABB2BF</string>
             </dict>
@@ -253,8 +243,6 @@
             <string>entity.other.attribute-name</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#D19A66</string>
             </dict>
@@ -268,8 +256,6 @@
             <string>support.function</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#63d9e8</string>
             </dict>
@@ -283,8 +269,6 @@
             <string>support.constant</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#D19A66</string>
             </dict>
@@ -297,8 +281,6 @@
             <string>support.type, support.class</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#E06C75</string>
             </dict>
@@ -310,10 +292,6 @@
             <key>scope</key>
             <string>support.other.variable</string>
             <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
-            </dict>
         </dict>
 
         <dict>
